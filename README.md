@@ -13,7 +13,7 @@ UI-base-starter-sketch aims as a simple way to start designing avoiding tedious 
 Bohemian Sketch: [Sketch](https://www.sketchapp.com/).
 
 ## Icons
-Fontawesome
+Material design
 
 ## Contribute
 
