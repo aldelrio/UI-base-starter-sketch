@@ -5,6 +5,7 @@ Simple Sketch base starter file
 UI-base-starter-sketch aims as a simple way to start designing avoiding tedious tasks as define primary styles, colors, simple form elements, with a symbol system and text and shapes styles you can custom quickly.
 
 **It is not a predefined style UI**, only purpose is save time.
+More info: https://www.aldelrio.com/en/sketch-starter-kit
 
 ## Requirements
 
